@@ -7,6 +7,8 @@ Análise exploratória de dados de filmes com foco em avaliação, faturamento, 
 O projeto cobre todo o pipeline de dados: desde a base bruta até a construção de um dashboard interativo.
 
 ---
+## 🎯 Pergunta de Negócio
+Quais fatores mais impactam o faturamento de um filme? Existe relação entre avaliação do público e retorno financeiro? Quais gêneros são mais lucrativos?
 
 ## 📊 Fonte dos Dados
 
